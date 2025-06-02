@@ -30,4 +30,4 @@ python -m PyInstaller --onefile --windowed --icon=icon.ico --add-data "icon.ico;
 
 ## 📸 Скриншоты
 
-![Скриншот калькулятора](assets/screenshot.png)
+![Numbra_b1](https://github.com/user-attachments/assets/a22a7f6c-c88e-404b-8300-e3bbe0fa1e41)
